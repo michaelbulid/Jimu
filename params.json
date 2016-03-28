@@ -1,0 +1,6 @@
+{
+  "name": "Jimu",
+  "tagline": "copy a page using express jade and stylus",
+  "body": "### Introduction\r\n  This project tells about how to copy a web page using express, jade and stylus.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
